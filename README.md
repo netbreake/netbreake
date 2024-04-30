@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 - 😄 Pronouns: idiot , joker 
-- ⚡ deep fact : if a person lost his memory thne how does he remember his mother tounge 
+- ⚡ deep fact : if a person lost his memory then how does he remember his mother tounge 
 
 <!---
 netbreake/netbreake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
